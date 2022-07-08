@@ -1,0 +1,4 @@
+.env
+configs/config.ini
+configs/nginx.conf
+downloads
